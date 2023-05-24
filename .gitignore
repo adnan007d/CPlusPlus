@@ -1,2 +1,6 @@
 *.exe
 *.out
+
+# Added by cargo
+
+/target
